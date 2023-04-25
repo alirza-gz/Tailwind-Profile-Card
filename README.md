@@ -1,2 +1,2 @@
 # Tailwind-Profile-Card
-Tailwind Product Card with Dark Mode
+Tailwind Profile Card with Dark Mode
