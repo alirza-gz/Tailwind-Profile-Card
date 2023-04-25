@@ -1,2 +1,2 @@
-# Responsive-Product-Card
-Responsive Product Card In HTML/CSS
+# Tailwind-Profile-Card
+Tailwind Product Card with Dark Mode
